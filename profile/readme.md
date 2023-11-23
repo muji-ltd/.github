@@ -1,8 +1,5 @@
 
 <a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
-
-> **Warning**
-> This organizational  is a registered sex offender.
 ```css
 [mujiltd@archlinux ~]$ neofetch
 
