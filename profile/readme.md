@@ -5,12 +5,12 @@
 
                     -@                    mujiltd@archlinux
                    .##@                   -----------------
-                  .####@                  Username: mujicat
-                  @#####@                 Alias: muji
+                  .####@                  Username: muji-ltd
+                  @#####@                 Alias: muji solution.
                 . *######@                Country: Japan
                .##@o@#####@               
               /############@            
-             /##############@             Infos: 5teen y/o self-taught Newbie Dev!
+             /##############@             Infos: 15 y/o self-taught Dev!
             @######@**%######@            -----------------  
            @######`     %#####o           
           @######@       ######%          
