@@ -1,19 +1,4 @@
-```css
-[mujiltd@archlinux ~]$ neofetch
 
-                    -@                    mujiltd@archlinux
-                   .##@                   -----------------
-                  .####@                  Username: muji-ltd
-                  @#####@                 Alias: muji solution.
-                . *######@                Country: Japan
-               .##@o@#####@               -----------------
-              /############@              
-             /##############@             
-            @######@**%######@              
-           @######`     %#####o           
-          @######@       ######%          
-        -@#######h       ######@.`        
-       /#####h**``       `**%@####@       
-      @H@*`                    `*%#@    
-     *`                            `*     
+```json
+Knowledge is power.
 ```
